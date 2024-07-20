@@ -18,7 +18,7 @@ Este repositório contém o material e exercícios do curso de **Spring Boot** d
 
 ## ▶️ Como Executar
 
-1. Clone este repositório:
+1. Clone o repositório:
    ```bash
    git clone https://github.com/erickwork/voll.med.git
 
