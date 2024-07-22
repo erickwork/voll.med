@@ -14,7 +14,7 @@ Este repositório contém o material e exercícios do curso de **Spring Boot** d
 
 - **src/main/java**: Código-fonte principal.
 - **src/main/resources**: Arquivos de configuração e scripts de migração do Flyway.
-- **src/test/java**: Testes unitários e de integração.
+- **src/test/java**: Teste unitário e de integração.
 
 ## ▶️ Como Executar
 
